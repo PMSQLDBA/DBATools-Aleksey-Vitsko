@@ -1,4 +1,4 @@
-
+--https://docs.google.com/spreadsheets/d/17kRQICKZ1Y3p8XGgkMd-Rak_ZeANVWwpI9f_RWEiVjU/edit?usp=sharing
 
 create or alter procedure IndexDefragSP (
 	@TableSizeOver						int = 0,									-- ignore tables whose size in Megabytes is smaller than specified value
